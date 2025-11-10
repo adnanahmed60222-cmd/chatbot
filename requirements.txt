@@ -1,0 +1,6 @@
+flask==2.3.0
+mysql-connector-python==8.1.0
+python-dotenv==1.0.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1
+nltk==3.8.1
